@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+blockquote {
+  font-style: italic;
+  background-color: #fff;
+  padding: 20px;
+  border-left: 5px solid #4CAF50;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+#citation {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
